@@ -35,8 +35,8 @@ vainnor@lab:~$ █
 | [vzdc_website](https://github.com/vZDC-ARTCC/website) | a website for a vatsim subdivision |
 | [vzdc_ids](https://github.com/vZDC-ARTCC/ids) | the vZDC ARTCC's modern take on an IDS |
 | [zdc-cli](https://github.com/Vainnor/zdc-cli) | a command-line tool for the vZDC ARTCC |
-| [muster](https://github.com/Vainnor/muster) | a small, fast desktop app launcher for windows, macos and linux, with one-click launchable app groups (early scaffold) |
-| [tessera](https://github.com/Vainnor/tessera) | a local-first notes app on plain markdown files, with end-to-end encrypted sync (early scaffold) |
+| [muster](https://github.com/Vainnor/muster) | a small, fast desktop app launcher for windows, macos and linux, with one-click launchable app groups |
+| [tessera](https://github.com/Vainnor/tessera) | a local-first notes app on plain markdown files, with end-to-end encrypted sync |
 | [aviodeck](https://aviodeck.app) | free flight sim tools for streamers, pilots and controllers: stream overlays, twitch automation, a discord bot and vatsim tools |
 
 ## #vainnorlabs
