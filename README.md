@@ -14,7 +14,7 @@
 
 <img alt="rust" src="https://img.shields.io/badge/-rust-E8803F?style=flat-square"> <img alt="react" src="https://img.shields.io/badge/-react-4FC3D0?style=flat-square"> <img alt="kubernetes" src="https://img.shields.io/badge/-kubernetes-6F9FD8?style=flat-square"> <img alt="proxmox" src="https://img.shields.io/badge/-proxmox-E6A52E?style=flat-square"> <img alt="vatsim" src="https://img.shields.io/badge/-vatsim-94C47D?style=flat-square">
 
-[ [vainnor.com](https://vainnor.com) ] &nbsp; [ [status](https://status.vainnor.com) ] &nbsp; [ [git](https://git.vainnor.com) ] &nbsp; [ [vzdc.org](https://vzdc.org) ]
+[ [vainnor.com](https://vainnor.com) ] &nbsp; [ [status](https://status.vainnor.com) ] &nbsp; [ [git](https://git.vainnor.com) ] &nbsp; [ [mainlinesim.com](https://mainlinesim.com) ] &nbsp; [ [vzdc.org](https://vzdc.org) ]
 
 </div>
 
@@ -22,6 +22,7 @@
 vainnor@lab:~$ whoami
 vainnor
 vainnor@lab:~$ cat about.txt
+founder of mainline sim
 runs a kubernetes homelab on proxmox
 writes rust and react
 does atc work on vatsim: training tools, artcc websites
@@ -32,6 +33,8 @@ vainnor@lab:~$ █
 
 | project | what it is |
 | :-- | :-- |
+| [mainline sim](https://mainlinesim.com) | founder. a us freight and passenger train simulator, in development |
+| [stepclimb](https://github.com/Vainnor/stepclimb) | an open-source learning platform: courses, server-graded exams and practice games, integrations. rust + react |
 | [vzdc_website](https://github.com/vZDC-ARTCC/website) | a website for a vatsim subdivision |
 | [vzdc_ids](https://github.com/vZDC-ARTCC/ids) | the vZDC ARTCC's modern take on an IDS |
 | [zdc-cli](https://github.com/Vainnor/zdc-cli) | a command-line tool for the vZDC ARTCC |
@@ -61,6 +64,7 @@ flowchart LR
 | | |
 | :-- | :-- |
 | [github](https://github.com/Vainnor) | code, mostly |
+| [mainline sim](https://mainlinesim.com) | the train sim i founded |
 | [vzdc](https://vzdc.org) | the Virtual Washington ARTCC, on the VATSIM network |
 | [vainnor.com](https://vainnor.com) | the homepage |
 
