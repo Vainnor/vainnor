@@ -14,7 +14,7 @@
 
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-E8803F?style=flat-square"> <img alt="React" src="https://img.shields.io/badge/-React-4FC3D0?style=flat-square"> <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-6F9FD8?style=flat-square"> <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E6A52E?style=flat-square"> <img alt="VATSIM" src="https://img.shields.io/badge/-VATSIM-94C47D?style=flat-square">
 
-[ [vainnor.com](https://vainnor.com) ] &nbsp; [ [Status](https://status.vainnor.com) ] &nbsp; [ [Git](https://git.vainnor.com) ] &nbsp; [ [mainlinesim.com](https://mainlinesim.com) ] &nbsp; [ [vzdc.org](https://vzdc.org) ]
+[ [vainnor.com](https://vainnor.com) ] &nbsp; [ [status](https://status.vainnor.com) ] &nbsp; [ [git](https://git.vainnor.com) ] &nbsp; [ [mainlinesim.com](https://mainlinesim.com) ] &nbsp; [ [vzdc.org](https://vzdc.org) ]
 
 </div>
 
@@ -22,10 +22,10 @@
 vainnor@lab:~$ whoami
 vainnor
 vainnor@lab:~$ cat about.txt
-Founder of Mainline Sim.
-Runs a Kubernetes homelab on Proxmox.
-Writes Rust and React.
-Does ATC work on VATSIM: training tools and ARTCC websites.
+founder of mainline sim
+runs a kubernetes homelab on proxmox
+writes rust and react
+does atc work on vatsim: training tools, artcc websites
 vainnor@lab:~$ █
 ```
 
